@@ -1,0 +1,22 @@
+{
+  "name": "git-web-hook",
+  "version": "0.0.1",
+  "description": "Factory to load fixtures on mysql database",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maxcnunes/git-web-hook.git"
+  },
+  "keywords": [ "git", "web", "hook", "github", "gitlab" ],
+  "author": "Max Claus Nunes",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "http://raw.github.com/maxcnunes/git-web-hook/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/maxcnunes/git-web-hook/issues"
+  },
+  "homepage": "https://github.com/maxcnunes/git-web-hook"
+}
