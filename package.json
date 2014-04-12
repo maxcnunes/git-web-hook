@@ -1,7 +1,7 @@
 {
   "name": "git-web-hook",
-  "version": "0.1.0",
-  "description": "Factory to load fixtures on mysql database",
+  "version": "0.1.1",
+  "description": "Simple web hook for gitlab",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
